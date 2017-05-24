@@ -27,6 +27,6 @@
     "eslint": ">=3",
     "eslint-plugin-haraka": "*",
     "haraka-test-fixtures": "*",
-    "mocha": "*"
+    "mocha": ">=3.4.2"
   }
 }

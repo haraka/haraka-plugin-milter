@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/haraka/haraka-plugin-milter#readme",
   "devDependencies": {
-    "eslint": ">=3",
-    "eslint-plugin-haraka": ">=1.0.7",
+    "eslint": ">=4.1.1",
+    "eslint-plugin-haraka": "*",
     "haraka-test-fixtures": "*",
     "mocha": "*"
   }

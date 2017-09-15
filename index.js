@@ -1,12 +1,12 @@
 'use strict';
 
 exports.register = function () {
-    var plugin = this;
+    const plugin = this;
     plugin.load_milter_ini();
 }
 
 exports.load_milter_ini = function () {
-    var plugin = this;
+    const plugin = this;
 
     plugin.cfg = plugin.config.get('milter.ini', {
         booleans: [

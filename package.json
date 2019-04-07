@@ -1,7 +1,7 @@
 {
   "name": "haraka-plugin-milter",
   "version": "1.0.0",
-  "description": "Haraka plugin that frobnicates email connections",
+  "description": "Haraka milter plugin",
   "main": "index.js",
   "scripts": {
     "lint": "node node_modules/.bin/eslint *.js test/*.js",
